@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543774464794",
+    "firebase_url": "https://my-tpc.firebaseio.com",
+    "project_id": "my-tpc",
+    "storage_bucket": "my-tpc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543774464794:android:1f54a0382d089d3d",
+        "android_client_info": {
+          "package_name": "com.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543774464794-3mc29brls8ag3v26ij1lerlg76skr1fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JF2uncMVCxqTDjXh46EpJGUKmvZ7TVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543774464794-3mc29brls8ag3v26ij1lerlg76skr1fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
